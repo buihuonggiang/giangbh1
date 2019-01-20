@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a tool manager, I want ability add attachment file to News item, so that I can delivery it along with News","The file can be uploaded is document file such as pdf, doc*, xls* and has max length is 2MB","SUCCESS","2019-01-20T21:30:36.801+07:00[Asia/Bangkok]","0.0","15.12"
+"As a tool manager, I want ability add attachment file to News item, so that I can delivery it along with News","The list of files is displayed with corresponding file icon","SUCCESS","2019-01-20T21:30:51.931+07:00[Asia/Bangkok]","0.0","13.12"

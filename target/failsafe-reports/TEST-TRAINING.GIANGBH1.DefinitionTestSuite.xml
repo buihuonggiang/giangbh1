@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TRAINING.GIANGBH1.DefinitionTestSuite" time="196.77" tests="19" errors="1" skipped="6" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_191\jre\bin"/>
+    <property name="java.vm.version" value="25.191-b12"/>
+    <property name="user.country.format" value="VN"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\DEVEnviroment\Project_demo\GIANGBH1"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\DEVEnviroment\Project_demo\GIANGBH1"/>
+    <property name="java.runtime.version" value="1.8.0_191-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_191\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\DangHong\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\DEVEnviroment\apache-maven-3.6.0\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1258"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_191\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Java\jre1.8.0_60\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Users\DangHong\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\JMeter\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\DEVEnviroment\apache-maven-3.6.0\bin;C:\Program Files\Java\jdk1.8.0_191\bin;C:\apache-maven-3.6.0\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_191\bin;D:\Android\Sdk\platform-tools;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.6.0\bin;D:\Android\Sdk\platform-tools;."/>
+    <property name="maven.conf" value="D:\DEVEnviroment\apache-maven-3.6.0\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="D:\DEVEnviroment\apache-maven-3.6.0\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\DangHong"/>
+    <property name="user.timezone" value="Asia/Bangkok"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1258"/>
+    <property name="user.name" value="DangHong"/>
+    <property name="java.class.path" value="D:\DEVEnviroment\apache-maven-3.6.0\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_191\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher verify"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="user.language.format" value="vi"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_191"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_191\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_191\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp1258"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\DEVEnviroment\apache-maven-3.6.0\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp1258"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="Group Name Subject and Body are mandatory information" classname="As a tool manager, I want ability to create News, so that I can deliver it to our customer who subscripted from Front-end module" time="16.506"/>
+  <testcase name="The default for group" classname="As a tool manager, I want ability to create News, so that I can deliver it to our customer who subscripted from Front-end module" time="10.971"/>
+  <testcase name="Check validate for maxlenth Name" classname="As a tool manager, I want ability to create News, so that I can deliver it to our customer who subscripted from Front-end module" time="14.367">
+    <failure type="java.lang.AssertionError">java.lang.AssertionError
+</failure>
+    <system-err><![CDATA[[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: Check validate for maxlenth Name
+-------------------------------------------------------------------(as-a-tool-manager--i-want-ability-to-create-news--so-that-i-can-deliver-it-to-our-customer-who-subscripted-from-front-end-module;check-validate-for-maxlenth-name)
+Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 5959
+Only local connections are allowed.
+thg 1 20, 2019 9:30:25 CH org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - 
+           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
+  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
+ (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
+  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
+ (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
+          \_\                                                            
+
+TEST FAILED WITH ERROR: Check validate for maxlenth Name
+---------------------------------------------------------------------
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - TEST FAILED AT STEP Get text: ChromeDriver: chrome on XP (85ba95e61ea5347e8d4f1601578662e6), Proxy element for: DefaultElementLocator 'By.cssSelector: div:nth-child(7) > .error:nth-child(2)'
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - 
+]]></system-err>
+  </testcase>
+  <testcase name="The file can be uploaded is document file such as pdf, doc*, xls* and has max length is 2MB" classname="As a tool manager, I want ability add attachment file to News item, so that I can delivery it along with News" time="14.979"/>
+  <testcase name="The list of files is displayed with corresponding file icon" classname="As a tool manager, I want ability add attachment file to News item, so that I can delivery it along with News" time="12.966"/>
+  <testcase name="The uploaded file can removable after confirmed" classname="As a tool manager, I want ability add attachment file to News item, so that I can delivery it along with News" time="14.238"/>
+  <testcase name="The uploaded file can removable after confirmed" classname="As a tool manager, I want ability add attachment file to News item, so that I can delivery it along with News" time="13.218"/>
+  <testcase name="The Send now will deliver the Newsletter to corresponding subscribed immediately" classname="As a Tool manager, I want ability to send created Newsletter, so that I can deliver this Newsletter to subscribed with corresponding group" time="13.22"/>
+  <testcase name="The save to send later require the date end time which Newsletter will be delivered to subscribers" classname="As a Tool manager, I want ability to send created Newsletter, so that I can deliver this Newsletter to subscribed with corresponding group" time="12.698"/>
+  <testcase name="List of Subscriber is displayed with alphabet order" classname="As a tool manager, I want ability to manage the subscriber information, so that I can modify, remove or add new subscriber" time="11.576"/>
+  <testcase name="Looking up the definition of &apos;apple&apos;" classname="Lookup a definition" time="0">
+    <skipped/>
+    <system-err><![CDATA[[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: Looking up the definition of 'apple'
+-------------------------------------------------------------------(lookup-a-definition;looking-up-the-definition-of--apple-)
+Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 32161
+Only local connections are allowed.
+thg 1 20, 2019 9:32:12 CH org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Looking up the definition of 'apple'
+---------------------------------------------------------------------------------
+]]></system-err>
+  </testcase>
+  <testcase name="Looking up the definition of &apos;apple&apos;" classname="Lookup a definition" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Looking up the definition of &apos;apple&apos;" classname="Lookup a definition" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Looking up the definition of &apos;pear&apos;" classname="Lookup a definition" time="0">
+    <skipped/>
+    <system-err><![CDATA[[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: Looking up the definition of 'pear'
+-------------------------------------------------------------------(lookup-a-definition;looking-up-the-definition-of--pear-)
+Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 43096
+Only local connections are allowed.
+thg 1 20, 2019 9:32:18 CH org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Looking up the definition of 'pear'
+---------------------------------------------------------------------------------
+]]></system-err>
+  </testcase>
+  <testcase name="Looking up the definition of &apos;pear&apos;" classname="Lookup a definition" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Looking up the definition of &apos;pear&apos;" classname="Lookup a definition" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Show default value on form provide information" classname="As an end user I want the ability to provide my information, so that I may receive the newsletters from provider" time="16.836"/>
+  <testcase name="Show default value on form provide information" classname="As an end user I want the ability to provide my information, so that I may receive the newsletters from provider" time="13.248"/>
+  <testcase name="Show default value on form provide information" classname="As an end user I want the ability to provide my information, so that I may receive the newsletters from provider" time="13.224">
+    <error message="element not interactable&#10;  (Session info: chrome=71.0.3578.98)&#10;  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;Build info: version: &apos;3.141.5&apos;, revision: &apos;d54ebd709a&apos;, time: &apos;2018-11-06T11:42:16&apos;&#10;System info: host: &apos;DESKTOP-5LVJ603&apos;, ip: &apos;192.168.173.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_191&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\DangHong\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54429}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 71.0.3578.98, webStorageEnabled: true}&#10;Session ID: fc6395648daa010dab2074e17e6c2541" type="org.openqa.selenium.ElementNotVisibleException">org.openqa.selenium.ElementNotVisibleException: 
+element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'DESKTOP-5LVJ603', ip: '192.168.173.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\DangHong\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54429}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: fc6395648daa010dab2074e17e6c2541
+</error>
+    <system-err><![CDATA[Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 39180
+Only local connections are allowed.
+thg 1 20, 2019 9:32:55 CH org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Show default value on form provide information
+----------------------------------------------------------------------------
+]]></system-err>
+  </testcase>
+</testsuite>

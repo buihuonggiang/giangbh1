@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="As a tool manager, I want ability to create News, so that I can deliver it to our customer who subscripted from Front-end module" skipped="0" tests="3" time="42.67" timestamp="2019-01-20 09:29:53"><testcase name="Group Name Subject and Body are mandatory information"/><testcase name="The default for group"/><testcase name="Check validate for maxlenth Name"><error type="java.lang.AssertionError"/><system-err>null&#13;
+TRAINING.GIANGBH1.steps.sbackend.i_should_see_messenger_field_Name(sbackend.java:99)&#13;
+✽.I should see messenger "This not exceeds 100 characters " field Name(src/test/resources/features/backend_BE05.feature:27)&#13;
+</system-err></testcase></testsuite>

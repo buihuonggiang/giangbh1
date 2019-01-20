@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a tool manager, I want ability to create News, so that I can deliver it to our customer who subscripted from Front-end module","Check validate for maxlenth Name","ERROR","2019-01-20T21:30:22.402+07:00[Asia/Bangkok]","0.0","14.08"
+"As a tool manager, I want ability add attachment file to News item, so that I can delivery it along with News","The uploaded file can removable after confirmed","ERROR","2019-01-20T21:31:05.058+07:00[Asia/Bangkok]","0.0","27.38"

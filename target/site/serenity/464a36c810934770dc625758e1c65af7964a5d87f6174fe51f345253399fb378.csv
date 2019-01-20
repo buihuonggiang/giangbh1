@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a Tool manager, I want ability to send created Newsletter, so that I can deliver this Newsletter to subscribed with corresponding group","The Send now will deliver the Newsletter to corresponding subscribed immediately","SUCCESS","2019-01-20T21:31:32.452+07:00[Asia/Bangkok]","0.0","13.43"
+"As a Tool manager, I want ability to send created Newsletter, so that I can deliver this Newsletter to subscribed with corresponding group","The save to send later require the date end time which Newsletter will be delivered to subscribers","SUCCESS","2019-01-20T21:31:45.892+07:00[Asia/Bangkok]","0.0","12.82"

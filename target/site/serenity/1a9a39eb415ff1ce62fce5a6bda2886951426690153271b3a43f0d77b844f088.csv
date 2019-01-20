@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a tool manager, I want ability to create News, so that I can deliver it to our customer who subscripted from Front-end module","Group Name Subject and Body are mandatory information","SUCCESS","2019-01-20T21:29:53.792+07:00[Asia/Bangkok]","0.0","17.46"
+"As a tool manager, I want ability to create News, so that I can deliver it to our customer who subscripted from Front-end module","The default for group","SUCCESS","2019-01-20T21:30:11.268+07:00[Asia/Bangkok]","0.0","11.13"
+"As a tool manager, I want ability to create News, so that I can deliver it to our customer who subscripted from Front-end module","Check validate for maxlenth Name","ERROR","2019-01-20T21:30:22.402+07:00[Asia/Bangkok]","0.0","14.08"
